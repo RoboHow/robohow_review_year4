@@ -1,1 +1,7 @@
 # knowrob repositories and branches used in robohow review year 4
+
+- git:
+    local-name: knowrob
+    uri: https://github.com/knowrob/knowrob.git
+#    version: master
+    version: robohow
